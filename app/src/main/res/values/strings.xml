@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="continue_next">Продолжить</string>
+    <string name="input_with_pass">Войти с паролем</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="vacancies_for_you">Вакансии для вас</string>
+    <string name="placeholder_email">Электронная почта</string>
+    <string name="respond">Откликнуться</string>
+
+    <string name="send_on_email">Отправили код на %s</string>
+    <string name="warning_text">Напишите его, чтобы подтвердить, что это вы, а не кто-то другой входит в личный кабинет</string>
+
+    <string name="example_text1">MOBYRIX - динамично развивающаяся продуктовая IT-компания, специализирующаяся на разработке мобильных приложений для iOS и Android. Наша команда работает над собственными продуктами в разнообразных сферах: от утилит до развлечений и бизнес-приложений.</string>
+    <string name="example_text2">Мы ценим талант и стремление к инновациям и в данный момент в поиске талантливого UX/UI Designer, готового присоединиться к нашей команде и внести значимый вклад в развитие наших проектов.</string>
+
+</resources>
